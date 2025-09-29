@@ -1,0 +1,47 @@
+ 
+ body{
+    background-color:rgb(231, 226, 219);
+    text-align: center;
+    justify-content: space-between;
+   
+} 
+#dh{
+    color: chocolate;
+    margin-left: 530px;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(83, 63, 184);
+    width: 90%;
+    max-width: 400px;
+
+    padding: 30px ; 
+    border-radius: 10px;
+    box-shadow: 15px 15px 15px 15px rgba(170, 143, 143, 0.3);
+
+       
+}
+button{
+    cursor: pointer;
+}
+#print{
+    color: darkcyan;
+    font-size: 2em;
+}
+  #dhu{
+    cursor: pointer;
+  }
+ #submit{
+    padding: 1em ;
+    padding-left:1.5em ;
+    padding-right: 1.5em;
+ }
+  #exit{
+    padding: 1em;
+    padding-left:2em ;
+    padding-right: 2em;
+ }
+ #reset{
+    padding: 1em ;
+    padding-left:1.5em ;
+    padding-right: 1.5em;
+ }
